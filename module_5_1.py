@@ -18,5 +18,3 @@ parking = House('Парковка', 2)
 h1.go_to(9)
 print()
 parking.go_to(-1)
-
-
